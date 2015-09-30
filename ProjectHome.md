@@ -1,0 +1,1 @@
+GITShell stands for "Ghost In The" Shell, and is intended to provide an extensible command shell front end for applications hosted in local and remote servers.
